@@ -69,6 +69,11 @@ body {
     font-weight: 600;
   }
   
+  .project-card i {
+    padding: 5px;
+    font-size: 20px;
+  }
+
   .project-card a:hover {
     text-decoration: underline;
   }
